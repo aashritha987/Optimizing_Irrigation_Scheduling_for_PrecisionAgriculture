@@ -1,7 +1,7 @@
 # Optimizing_Irrigation_Scheduling_for_PrecisionAgriculture
 an optimized irrigation scheduling system that uses real-time data to apply water precisely according to crop needs.
 
--> This project presents an adaptive irrigation system that dynamically adjusts water allocation based on current weather data, soil moisture levels, and crop-specific water needs, using a combination of the Round Robin Scheduling Algorithm and Banker’s Algorithm for safe resource allocation.
+-> This project presents an adaptive irrigation system that dynamically adjusts water allocation based on current weather data, soil moisture levels, and crop-specific water needs, using a combination of the Round Robin Scheduling Algorithm and Banker’s Algorithm for safe resource allocation.<br/>
 -> The system cycles through multiple fields, distributing water equitably based on individual crop water requirements and real-time soil moisture data. Weather forecast data, such as temperature, humidity, and rainfall, are integrated to modify irrigation schedules, minimizing water usage by adjusting for natural precipitation and environmental conditions
 
 Key Data Considerations:
